@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.enovaseguros.seg.br/$1",
+      "permanent": true
+    }
+  ]
+}
